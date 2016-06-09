@@ -1,6 +1,16 @@
 body {
-	background-color: purple;
+	background-color: black;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+
 }
-h1, p {
-	color: green;
+h1 {
+	color: #6c9b9e;
+}
+h2 {
+	color: #6c9b9e;
+	font-style: italic;
+}
+p {
+	color: white;
 }
