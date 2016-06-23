@@ -1,8 +1,8 @@
 <link href='https://fonts.googleapis.com/css?family=Domine' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Gentium+Book+Basic' rel='stylesheet' type='text/css'>
 *{
-	margin:auto;
-	padding:auto;
+	margin:0;
+	padding:0;
 	box-sizing: border-box; 
 }
 #border{
@@ -19,6 +19,8 @@ header{
 	text-align: center;
 	vertical-align: center;
 	font-family: 'Gentium Book Basic', serif;
+	margin-left: auto;
+	margin-right: auto;
 	padding:50px;
 }
 
