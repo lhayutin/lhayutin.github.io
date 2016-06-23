@@ -12,6 +12,7 @@ body {
 	background-color: white;
 	font-family: 'Domine', serif; font-size: 18px;
 	color: #000;
+	align-items: center;
 }
 
 header{
