@@ -8,6 +8,11 @@
 #border{
 	border:2px black;
 }
+.frame img{
+    width:100%;
+/*     height:100%; */
+    display:block;
+}
 body {
 	background-color: white;
 	font-family: 'Domine', serif; font-size: 18px;
