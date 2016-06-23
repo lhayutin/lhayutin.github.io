@@ -1,6 +1,18 @@
 <link href='https://fonts.googleapis.com/css?family=Domine' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Gentium+Book+Basic' rel='stylesheet' type='text/css'>
-		
+		*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box; 
+}
+#border{
+	border:2px black;
+}
+.frame img{
+    width:100%;
+/*     height:100%; */
+    display:block;
+}
 body {
 	background-color: white;
 	font-family: 'Domine', serif; font-size: 18px;
