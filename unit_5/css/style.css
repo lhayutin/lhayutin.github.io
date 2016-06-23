@@ -8,20 +8,27 @@ body {
 	align-items: center;
 }
 
-header{
+header {
 	text-align: center;
 	vertical-align: center;
 	font-family: 'Gentium Book Basic', serif;
 	margin-left: auto;
 	margin-right: auto;
-	padding:50px;
+	background-color: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
 }
 
-main{
-	border-top:2px solid #6c9b9e;
-	border-bottom:2px solid #6c9b9e;
-	width: 100%;
-	padding:50px;
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 h1, h2 {
@@ -51,6 +58,9 @@ a {
 .wrapper{
 	width: 683px;
 	margin:auto;
+		background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
 }
 .logo{
 	width:auto;
@@ -60,4 +70,4 @@ a {
 	width:auto;
 	margin:auto;
 }
-}
+
