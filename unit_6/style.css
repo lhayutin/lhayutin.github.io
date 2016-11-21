@@ -1,0 +1,102 @@
+<link href='https://fonts.googleapis.com/css?family=Domine' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Gentium+Book+Basic' rel='stylesheet' type='text/css'>
+
+body {
+	background-color: white;
+	font-family: 'Domine', serif; font-size: 18px;
+	color: #000;
+	align-items: center;
+}
+
+header {
+	text-align: center;
+	vertical-align: center;
+	font-family: 'Gentium Book Basic', serif;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+}
+#two_column {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left{
+	background-color: violet;
+	border: 1 px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right{
+	background-color: pink;
+	border: 1 px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix: after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+h1, h2 {
+	color: #6c9b9e;
+	font-family: 'Gentium Book Basic', serif;
+
+}
+
+h2 {
+	font-style: italic;
+}
+
+h3{
+	font-family: 'Gentium Book Basic', serif;
+	text-align: center;
+	color: #8f60d0;
+}
+
+p {
+
+}
+
+a {
+	color: #f7cf71;
+}
+
+.wrapper{
+	width: 683px;
+	margin:auto;
+		background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+.logo{
+	width:auto;
+	margin:auto;
+}
+.portfolio{
+	width:auto;
+	margin:auto;
+}
